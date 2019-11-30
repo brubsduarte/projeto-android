@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Econonews</string>
+    <string name="address_econonews">Bruna Duarte\n Caio Celso \n Felippe Gustavo \n Gustavo Pereira</string>
+    <string name="email_econonews">Senac</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>
